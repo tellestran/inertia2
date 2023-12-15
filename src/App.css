@@ -1,0 +1,39 @@
+.app {
+  
+  text-align: center;
+  transition: background-color 0.3s ease;
+}
+.app-header{
+  padding-top: 10px;
+}
+.app-header button{
+  padding-top: 5px;
+}
+.title{
+  background-color: #302d81;
+}
+
+.dark {
+  background-color: #222;
+  color: #fff;
+}
+.dark a {
+  
+  color: #fff;
+}
+
+.light {
+  background-color: #fff;
+  color: #222;
+}
+.light a {
+  
+  color: #222;
+}
+.thememode {
+  position: fixed;
+  bottom: 10px; /* điều chỉnh khoảng cách từ bottom theo ý muốn */
+  left: 10px; /* điều chỉnh khoảng cách từ left theo ý muốn */
+  z-index: 999999; /* đảm bảo nút luôn ở trên cùng của các phần tử khác */
+  /* Thêm các thuộc tính CSS khác theo ý muốn */
+}

@@ -1,0 +1,37 @@
+.footer{
+    padding-top: 50px;
+}
+.container-footer{
+    padding-left: 20%;
+    padding-right: 20%;
+   
+    display: flex;
+}
+.footer-wrapper{
+    display: block;
+    width: 500px;
+    padding-left: 50px;
+}
+.container-footer ul {
+    list-style-type: none;
+    
+    display: block ;
+    align-items: start;
+  }
+
+.container-footer li {
+  padding-left: 10%;
+    display: block;
+    margin-bottom: 10px;
+    align-items: start; /* Thêm khoảng cách giữa các mục */
+  }
+  .footer-wrapper-nav img{
+    width: 100px;
+  }
+  .footer-wrapper-nav ul{
+    display: flex;
+    justify-content: center;
+  }
+  .footer-wrapper-nav{
+    width: 500px;
+  }

@@ -1,0 +1,15 @@
+.samplepages{
+    background-color: hsl(244.21deg 47% 60%);
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+}
+.text{
+    padding-top: 2%;
+ 
+    padding-left: 30%;
+    padding-right:30% ;
+    
+}

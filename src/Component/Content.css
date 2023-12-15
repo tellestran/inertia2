@@ -1,0 +1,15 @@
+img{
+    border-radius: 10px;
+   }
+.front-page{
+  border: 1px solid;
+  width: 600px;
+  border-radius: 10px;
+  
+}
+.front-item{
+  display: flex;
+  text-align: start;
+
+
+}

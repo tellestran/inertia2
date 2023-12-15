@@ -1,0 +1,9 @@
+.container-editorial{
+    padding: 100px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.text{
+    padding-top: 20%;
+    padding-left: 10%;
+}

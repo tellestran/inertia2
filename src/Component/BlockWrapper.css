@@ -1,0 +1,33 @@
+.infor ul{
+    display: flex;
+}
+.infor li{
+    padding: 20px;
+    text-decoration: none;
+    list-style: none;
+}
+
+.input{
+    padding-left: 100px;
+}
+.infor{
+    width: 30%;
+    align-items: center;
+    padding-right: 50px;
+}
+.darkblock{
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000000;
+
+}
+.lightblock{
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#f5f5f5;
+
+}

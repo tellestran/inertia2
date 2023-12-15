@@ -1,0 +1,11 @@
+.homedecor-item img{/* Chiều cao mong muốn */
+    object-fit: cover; /* Giữ tỷ lệ khung hình và cắt ảnh để nó vừa với kích thước khung hình */
+    overflow: hidden;
+    
+}
+.homedecor-item{
+    display: flex;
+    
+    flex-wrap: wrap;
+    padding-left: 10%;
+}

@@ -1,0 +1,36 @@
+.Carousel-container{
+    background-color: #f5f5f5;
+    justify-content: center;
+    display: flex;
+}
+.lightcarousel{
+    background-color:rgb(255, 255, 255);
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 25%;
+    border-radius: 10px;
+    color: black;
+   
+}
+.darkcarousel{
+    background-color:rgb(0, 0, 0);
+    display: flex;
+    margin: 50px;
+    
+    width: 30%;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+
+}
+.carousel-item{
+    width: 100%;
+    justify-content: center;
+
+}
+.item{
+    padding-left: 50px;
+}
+p{
+    overflow: hidden;
+}
